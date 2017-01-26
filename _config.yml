@@ -32,13 +32,8 @@ organizerLink: "http://lviv.gdg.org.ua/"
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-
-# Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+socialImageSrcTwitter: "/img/seo/twitter.png"
+socialImageSrcFacebook: "/img/seo/face.png"
 
 # Navigation
 navigationLinks:
