@@ -50,6 +50,8 @@ mapCenterCoordinates: "-8.0533827, -34.900661799999966"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
 
 # About Block
 aboutTitle: "Mais informações sobre a comunidade"
