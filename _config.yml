@@ -65,7 +65,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 2
-rockstarSpeakersTitle: "Palestrantes"
+rockstarSpeakersTitle: "Palestrantes dessa edição"
 rockstarSpeakersButtonText: "Conheça os palestrantes"
 
 # Footer
